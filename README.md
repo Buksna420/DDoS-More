@@ -51,7 +51,7 @@ GPL-3.0
 
 ---
 
-> GitHub [@R00tS3c](https://github.com/R00tS3c) &nbsp;&middot;&nbsp;
+> GitHub [@Buksna](https://github.com/jasko1221) &nbsp;&middot;&nbsp;
 
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FR00tS3c%2FDDOS-RootSec.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FR00tS3c%2FDDOS-RootSec?ref=badge_large)
