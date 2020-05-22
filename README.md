@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">DDOS Archive by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers).</h4>
+<h4 align="center">DDoS Archive by #Buksna (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers).</h4>
 <p align="center">
     <a href="http://waffle.io/R00tS3c/DDOS-RootSec"><img src="https://badge.waffle.io/OrigemWoot/OrigemWoot.svg?label=ready&title=Ready"></a>
   </a>
